@@ -1,20 +1,26 @@
 ---
 marp: true
-theme: custom
+title: My Presentation
+author: shubham
+theme: default
 paginate: true
+math: mathjax
 ---
 
 <style>
-  blockquote {
-    font-style: italic;
-  }
-  section {
-    background-image: url('qr-code.png');
-    background-repeat: no-repeat;
-    background-position: top 20px right 20px;
-    background-size: 80px auto;
-  }
+section {
+  background: #fdf6e3;
+  color: #657b83;
+}
+h1 {
+  color: #d33682;
+}
 </style>
+
+![bg](bgimage.jpeg)
+![bg fit](bgimage.jpeg)
+![bg cover](bgimage.jpeg)
+
 
 # Product Documentation Presentation  
 **Email:** 22f3002349@ds.study.iitm.ac.in  
@@ -26,17 +32,12 @@ paginate: true
 - Convertible to PDF, PPTX, HTML
 - Easy to maintain
 
----
+## Algorithmic Complexity!   
 
-<!-- _backgroundImage: url('https://marp.app/assets/hero-background.jpg') -->
-# Slide with Background Image  
-This slide has a custom background image 🎨  
+$$
+T(n) = O(n^2)
+$$
 
----
-
-## Algorithmic Complexity  
-The complexity of binary search:  
-$$ O(\log n) $$  
 
 ---
 
