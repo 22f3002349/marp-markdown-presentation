@@ -2,36 +2,32 @@
 marp: true
 theme: custom
 paginate: true
-backgroundColor: #f9f9f9
-class: lead
 ---
 
-<!-- _class: lead -->
 # Product Documentation Presentation  
-### 22f3002349@ds.study.iitm.ac.in  
+**Email:** 22f3002349@ds.study.iitm.ac.in  
 
 ---
 
-# Agenda
-- Introduction  
-- Features  
-- Algorithmic Complexity  
-- Demo  
-- Q&A  
+## Features Overview
+- Version controlled
+- Convertible to PDF, PPTX, HTML
+- Easy to maintain
 
 ---
 
-<!-- _backgroundImage: "https://picsum.photos/1600/900" -->
-# Background Image Slide
-This slide demonstrates a full background image.
+<!-- _backgroundImage: url('https://marp.app/assets/hero-background.jpg') -->
+# Slide with Background Image  
+This slide has a custom background image 🎨  
 
 ---
 
-# Code Example
+## Algorithmic Complexity  
+The complexity of binary search:  
+$$ O(\log n) $$  
 
-```python
-def calculate_complexity(n):
-    # O(n^2) example
-    for i in range(n):
-        for j in range(n):
-            pass
+---
+
+## Thank You  
+Roll No: **22f3002349**  
+Email: **22f3002349@ds.study.iitm.ac.in**
