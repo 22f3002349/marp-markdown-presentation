@@ -27,9 +27,11 @@ h1 {
 
 ---
 
-<!-- _backgroundColor: #123456 -->
+<!-- _backgroundImage: url('https://marp.app/assets/hero-background.jpg') -->
+# Slide with Background Image  
+This slide has a custom background image 🎨  
 
-Slide with custom background
+---
 
 
 ## Features Overview
