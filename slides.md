@@ -27,6 +27,11 @@ h1 {
 
 ---
 
+<!-- _backgroundColor: #123456 -->
+
+Slide with custom background
+
+
 ## Features Overview
 - Version controlled
 - Convertible to PDF, PPTX, HTML
