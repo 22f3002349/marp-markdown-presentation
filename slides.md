@@ -38,6 +38,7 @@ This slide has a custom background image 🎨
 - Version controlled
 - Convertible to PDF, PPTX, HTML
 - Easy to maintain
+- <mark style="background: yellow; color: black;">Highlighted with mark directive</mark>
 
 ## Algorithmic Complexity!   
 
