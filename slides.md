@@ -4,6 +4,18 @@ theme: custom
 paginate: true
 ---
 
+<style>
+  blockquote {
+    font-style: italic;
+  }
+  section {
+    background-image: url('qr-code.png');
+    background-repeat: no-repeat;
+    background-position: top 20px right 20px;
+    background-size: 80px auto;
+  }
+</style>
+
 # Product Documentation Presentation  
 **Email:** 22f3002349@ds.study.iitm.ac.in  
 
